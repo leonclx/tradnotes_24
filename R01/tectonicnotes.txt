@@ -1,0 +1,4 @@
+This document is created using tectonic
+
+$ tectonic -X new myfirstdoc
+$ tectonic -X build
